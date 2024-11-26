@@ -13,5 +13,6 @@ Operations on datasets:
 3.info()
 4.describe()
 Linear Regression---> https://shorturl.at/ymHao
+git installation
 
 
